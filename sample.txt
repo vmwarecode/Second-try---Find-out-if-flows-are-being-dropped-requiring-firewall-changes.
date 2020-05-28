@@ -1,0 +1,1 @@
+flows where firewall ruleid = <ruleid> and Application = <app-name> and firewall action = 'DENY'
